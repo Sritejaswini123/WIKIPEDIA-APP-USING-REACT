@@ -62,6 +62,7 @@ return (
             <a  href={result.link} target="_blank" rel="noopener noreferrer" className="result-url">
                {result.link} </a>
             <br/>
+          
             <p>{result.description}</p>
           </div>
         ))}
